@@ -34,7 +34,7 @@ ORDER BY customer_id DESC
 LIMIT 1;
 ```
 4. JOIN Challenges: Alert customers in California about sales tax changes.
-   
+
 *Gained experience with JOIN statements to combine data from multiple tables and retrieve specific fields.*
 ```
 SELECT customer.email, address.district 
