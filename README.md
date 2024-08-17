@@ -1,5 +1,5 @@
 # The Complete SQL Bootcamp Go from Zero to Hero
-## This course aim to teach me  to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more.
+## This course teaches you to read and write complex queries using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more.
 
 **Below are the exercises and what I learned from each:**
 
