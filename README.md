@@ -118,7 +118,5 @@ FROM cd.members
 ORDER BY surname 
 LIMIT 10;
 ```
-## This repository contains the exercises I completed as part of the "The Complete SQL Bootcamp - Go from Zero to Hero" course on Udemy (9 hours of learning). Through these challenges, I have developed a strong understanding of various SQL concepts including querying data, using joins, manipulating datasets, and working with date stamps.
-
 
 *These exercises are based on 'The Complete SQL Bootcamp - Go from Zero to Hero' on Udemy by Jose Portilla*
