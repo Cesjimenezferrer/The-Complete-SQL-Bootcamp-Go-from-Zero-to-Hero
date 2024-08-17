@@ -1,5 +1,6 @@
 # The Complete SQL Bootcamp Go from Zero to Hero
-## This course teaches you to read and write complex queries using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more.
+
+## This repository contains the exercises I completed as part of the "The Complete SQL Bootcamp - Go from Zero to Hero" course on Udemy (9 hours of learning). Through these challenges, I have developed a strong understanding of various SQL concepts including querying data, using joins, manipulating datasets, and working with date stamps. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more.
 
 **Below are the exercises and what I learned from each:**
 
@@ -118,3 +119,6 @@ ORDER BY surname
 LIMIT 10;
 ```
 ## This repository contains the exercises I completed as part of the "The Complete SQL Bootcamp - Go from Zero to Hero" course on Udemy (9 hours of learning). Through these challenges, I have developed a strong understanding of various SQL concepts including querying data, using joins, manipulating datasets, and working with date stamps.
+
+
+*These exercises are based on 'The Complete SQL Bootcamp - Go from Zero to Hero' on Udemy by Jose Portilla*
